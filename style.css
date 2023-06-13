@@ -1,0 +1,57 @@
+/* .header{
+    position:fixed;
+    top:0;
+    left:0;
+    right:0;
+    z-index: 999;
+    background: #fff;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    padding: 3rem 9%;
+} */
+/* .header.navbar.container-fluid.header.Logo{
+    font-size:2.5rem;
+    color:orangered;
+    font-weight:bold;
+}
+.header.Logo{
+    color:#000;
+    ;
+} */
+.nav-item:hover
+{
+  background-color:orangered;
+}
+.navbar-brand {
+    font-size:2.5rem;
+    color:orangered;
+    font-weight:bold;
+  }
+
+  .card-title{
+    font-weight: bold;
+  }
+  .card-body{
+    text-align: center;
+  }
+  .btn{
+    background-color: rgb(251, 197, 177);
+    color: black;
+  }
+
+  .btn:hover {
+    background-color:orangered;
+  }
+  /* .navbar1 {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    padding: 0;
+  }
+  
+  .nav-item {
+    flex: 1;
+    text-align: center;
+  }
+  
